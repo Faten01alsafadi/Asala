@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #2c2a29;
+  --secondary-color: #fad8b7;
+  --background-color: #1f1f1f;
+  --text-color: #fdfdfd;
+}
+body {
+  font-family: "Noto Naskh Arabic", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  scroll-behavior: smooth;
+}
